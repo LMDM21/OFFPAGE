@@ -73,7 +73,7 @@ function parseCSV(text){
 
             }
 
-            else if(c === "," && !quote){
+            else if(c === ";" && !quote){
 
 
                 valeurs.push(valeur.trim());
