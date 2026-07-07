@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Code pénal RP</title>
+
+
+<style>
+
+* {
+    box-sizing: border-box;
+}
+
+
+body {
+
+    margin:0;
+    padding:30px;
+
+    background:#111827;
+
+    font-family:Arial, Helvetica, sans-serif;
+
+    color:white;
+
+}
+
+
+
+.container {
+
+    max-width:900px;
+
+    margin:auto;
+
+    background:#1f2937;
+
+    padding:30px;
+
+    border-radius:15px;
+
+    box-shadow:0 10px 30px rgba(0,0,0,0.4);
+
+}
+
+
+
+h1 {
+
+    text-align:center;
+
+    margin-bottom:30px;
+
+}
+
+
+
+label {
+
+    display:block;
+
+    margin-top:20px;
+
+    margin-bottom:8px;
+
+    color:#cbd5e1;
+
+}
+
+
+
+select {
+
+    width:100%;
+
+    padding:12px;
+
+    border-radius:8px;
+
+    border:none;
+
+    background:#374151;
+
+    color:white;
+
+    font-size:16px;
+
+}
+
+
+
+.card {
+
+    margin-top:30px;
+
+    background:#111827;
+
+    padding:25px;
+
+    border-radius:12px;
+
+    border-left:5px solid #3b82f6;
+
+}
+
+
+
+.card h2 {
+
+    margin-top:0;
+
+    color:#60a5fa;
+
+}
+
+
+
+.info {
+
+    display:grid;
+
+    grid-template-columns:150px auto;
+
+    gap:10px;
+
+    margin-top:15px;
+
+}
+
+
+
+.key {
+
+    color:#94a3b8;
+
+}
+
+
+
+.value {
+
+    color:white;
+
+}
+
+
+
+.empty {
+
+    color:#94a3b8;
+
+    text-align:center;
+
+}
+
+
+
+</style>
+
+
+</head>
+
+
+<body>
+
+
+<div class="container">
+
+
+<h1>
+⚖️ Code pénal RP
+</h1>
+
+
+
+<label for="categorie">
+Type d'infraction
+</label>
+
+
+<select id="categorie">
+
+<option value="">
+-- Choisir une catégorie --
+</option>
+
+<option value="Contravention">
+Contravention
+</option>
+
+<option value="Délit">
+Délit
+</option>
+
+<option value="Crime">
+Crime
+</option>
+
+
+</select>
+
+
+
+
+<label for="infraction">
+Infraction
+</label>
+
+
+<select id="infraction">
+
+<option>
+Choisir une catégorie avant
+</option>
+
+
+</select>
+
+
+
+
+
+<div id="resultat" class="card">
+
+
+<div class="empty">
+
+Sélectionnez une infraction pour afficher les détails
+
+</div>
+
+
+</div>
+
+
+
+</div>
+
+
+
+<script src="script.js"></script>
+
+
+</body>
+
+</html>
