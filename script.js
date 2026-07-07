@@ -1,7 +1,7 @@
 let infractions = [];
 
 
-fetch("infractions.csv")
+fetch("./infractions.csv")
 .then(response => response.text())
 .then(data => {
 
