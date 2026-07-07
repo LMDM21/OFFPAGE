@@ -2,57 +2,43 @@ let infractions = [];
 
 
 
-fetch("./infractions.csv")
-
-.then(response => {
-
-    if(!response.ok){
-
-        throw new Error("CSV introuvable");
-
-    }
-
-    return response.text();
-
-})
+// Parseur CSV qui gère les virgules dans les champs
+function parseCSV(text){
 
 
-.then(data => {
+    let lignes = [];
 
+    let ligne = "";
 
-    let lignes = data.split("\n");
-
-
-    let headers = lignes[0].split(";");
+    let entreGuillemets = false;
 
 
 
-    for(let i = 1; i < lignes.length; i++){
+    for(let i = 0; i < text.length; i++){
 
 
-        let valeurs = lignes[i].split(";");
+        let char = text[i];
 
 
-        if(valeurs.length < headers.length)
-            continue;
+        if(char === '"'){
 
+            entreGuillemets = !entreGuillemets;
 
-
-        let obj = {};
-
-
-
-        headers.forEach((h,index)=>{
-
-            obj[h.trim()] = valeurs[index]?.trim();
-
-        });
+        }
 
 
 
-        if(obj.active == "1"){
+        if(char === "\n" && !entreGuillemets){
 
-            infractions.push(obj);
+            lignes.push(ligne);
+
+            ligne="";
+
+        }
+
+        else{
+
+            ligne += char;
 
         }
 
@@ -60,15 +46,145 @@ fetch("./infractions.csv")
     }
 
 
+    lignes.push(ligne);
 
-    console.log("Infractions chargées :", infractions);
+
+
+    return lignes.map(ligne=>{
+
+
+        let valeurs=[];
+
+        let valeur="";
+
+        let quote=false;
+
+
+
+        for(let i=0;i<ligne.length;i++){
+
+
+            let c=ligne[i];
+
+
+            if(c === '"'){
+
+                quote=!quote;
+
+            }
+
+            else if(c === "," && !quote){
+
+
+                valeurs.push(valeur.trim());
+
+                valeur="";
+
+
+            }
+
+            else{
+
+
+                valeur += c;
+
+
+            }
+
+
+        }
+
+
+        valeurs.push(valeur.trim());
+
+
+        return valeurs;
+
+
+    });
+
+
+}
+
+
+
+
+
+fetch("./infractions.csv")
+
+
+.then(response=>{
+
+
+    if(!response.ok){
+
+        throw new Error("CSV introuvable");
+
+    }
+
+
+    return response.text();
 
 
 })
 
+
+.then(data=>{
+
+
+    let lignes=parseCSV(data);
+
+
+
+    let headers=lignes[0];
+
+
+
+    for(let i=1;i<lignes.length;i++){
+
+
+        let valeurs=lignes[i];
+
+
+
+        if(valeurs.length !== headers.length)
+            continue;
+
+
+
+        let obj={};
+
+
+
+        headers.forEach((h,index)=>{
+
+
+            obj[h.trim()] = valeurs[index];
+
+
+        });
+
+
+
+        infractions.push(obj);
+
+
+
+    }
+
+
+
+    console.log("CSV chargé :", infractions);
+
+
+})
+
+
 .catch(error=>{
 
+
     console.error(error);
+
 
 });
 
@@ -76,18 +192,19 @@ fetch("./infractions.csv")
 
 
 
-const categorie = document.getElementById("categorie");
 
-const resultat = document.getElementById("resultat");
+const categorie=document.getElementById("categorie");
 
-
-
+const resultat=document.getElementById("resultat");
 
 
-categorie.addEventListener("change", ()=>{
 
 
-    let liste = infractions.filter(i =>
+
+categorie.addEventListener("change",()=>{
+
+
+    let liste = infractions.filter(i=>
 
         i.Nature === categorie.value
 
@@ -95,14 +212,14 @@ categorie.addEventListener("change", ()=>{
 
 
 
-    resultat.innerHTML = "";
+    resultat.innerHTML="";
 
 
 
     if(liste.length === 0){
 
 
-        resultat.innerHTML = `
+        resultat.innerHTML=`
 
         <div class="empty">
 
@@ -115,7 +232,9 @@ categorie.addEventListener("change", ()=>{
 
         return;
 
+
     }
+
 
 
 
@@ -123,16 +242,14 @@ categorie.addEventListener("change", ()=>{
     liste.forEach(i=>{
 
 
-
-        let card = document.createElement("div");
-
-
-        card.className = "card";
+        let card=document.createElement("div");
 
 
+        card.className="card";
 
-        card.innerHTML = `
 
+
+        card.innerHTML=`
 
         <h2>${i.Qualification}</h2>
 
@@ -144,7 +261,7 @@ categorie.addEventListener("change", ()=>{
         NATINF
         </div>
 
-        <div class="value">
+        <div>
         ${i.NATINF}
         </div>
 
@@ -154,7 +271,7 @@ categorie.addEventListener("change", ()=>{
         Nature
         </div>
 
-        <div class="value">
+        <div>
         ${i.Nature}
         </div>
 
@@ -164,17 +281,17 @@ categorie.addEventListener("change", ()=>{
         Amende
         </div>
 
-        <div class="value">
+        <div>
         ${i.Amende || "Non renseignée"}
         </div>
 
 
 
         <div class="key">
-        Peine
+        Prison
         </div>
 
-        <div class="value">
+        <div>
         ${i.Prison || "Non renseignée"}
         </div>
 
@@ -184,8 +301,8 @@ categorie.addEventListener("change", ()=>{
         Points
         </div>
 
-        <div class="value">
-        ${i.Points || "Aucun"}
+        <div>
+        ${i.Points || "0"}
         </div>
 
 
@@ -194,14 +311,12 @@ categorie.addEventListener("change", ()=>{
         Complément
         </div>
 
-        <div class="value">
+        <div>
         ${i.Complément || "Aucun"}
         </div>
 
 
-
         </div>
-
 
         `;
 
