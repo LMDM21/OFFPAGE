@@ -1,189 +1,189 @@
-Id,Nature,NATINF,Qualification,Amende,Prison,Points,Complément
-97,Contravention,33227,Participation à une manifestation interdite sur la voie publique,"135,00 €",00:00:00,0,
-98,Contravention,33227,Participation à une manifestation interdite sur la voie publique (Récidive),"170,00 €",00:05:00,0,
-125,Contravention,213,Conduite d'un véhicule à une vitesse excessive eu égard aux circonstances,"90,00 €",00:00:00,0,
-126,Contravention,213,Conduite d'un véhicule à une vitesse excessive eu égard aux circonstances (Récidive),"180,00 €",00:00:00,0,
-127,Contravention,7581,Arrêt ou stationnement gênant de véhicule entre le bord de chaussée et une ligne continue,"35,00 €",00:00:00,0,Fourrière
-128,Contravention,7581,Arrêt ou stationnement gênant de véhicule entre le bord de chaussée et une ligne continue (Récidive),"70,00 €",00:00:00,0,Fourrière
-129,Contravention,201,Arrêt ou stationnement dangereux de véhicule,"135,00 €",00:00:00,3,Fourrière
-130,Contravention,201,Arrêt ou stationnement dangereux de véhicule (Récidive),"270,00 €",00:00:00,3,Fourrière
-131,Contravention,22889,Usage irrégulier des feux d'éclairage par le conducteur d'un véhicule à moteur circulant dans des circonstances atmosphériques réduisant la visibilité,"90,00 €",00:00:00,1,
-132,Contravention,22889,Usage irrégulier des feux d'éclairage par le conducteur d'un véhicule à moteur circulant dans des circonstances atmosphériques réduisant la visibilité (Récidive),"180,00 €",00:00:00,3,
-135,Contravention,217,Oubli ou mauvais usage du clignotant,"22,00 €",00:00:00,3,
-136,Contravention,217,Oubli ou mauvais usage du clignotant (Récidive),"44,00 €",00:00:00,3,
-137,Contravention,22882,"Usage abusif, de l'avertisseur sonore d'un véhicule","22,00 €",00:00:00,0,
-138,Contravention,22882,"Usage abusif, de l'avertisseur sonore d'un véhicule (Récidive)","44,00 €",00:00:00,0,
-139,Contravention,13107,Usage irrégulier de feux spéciaux réservés aux véhicules d'intérêt général,"90,00 €",00:00:00,0,Immobilisation
-140,Contravention,13107,Usage irrégulier de feux spéciaux réservés aux véhicules d'intérêt général (Récidive),"180,00 €",00:00:00,0,Immobilisation
-141,Contravention,24088,Circulation d'un véhicule en dehors de la chaussée,"90,00 €",00:00:00,0,
-142,Contravention,24088,Circulation d'un véhicule en dehors de la chaussée (Récidive),"180,00 €",00:00:00,0,
-144,Contravention,256,Circulation de véhicule en sens interdit,"90,00 €",00:00:00,4,Applicable en cas de circulation en marche arrière dans une rue à sens unique
-145,Contravention,256,Circulation de véhicule en sens interdit (Récidive),"180,00 €",00:00:00,4,
-146,Contravention,207,Refus de priorité à droite à une intersection de routes,"90,00 €",00:00:00,4,
-147,Contravention,207,Refus de priorité à droite à une intersection de routes (Récidive),"180,00 €",00:00:00,4,
-148,Contravention,6091,"Refus de priorité par conducteur de véhicule abordant un carrefour à sens giratoire (""rond-point"")","90,00 €",00:00:00,4,
-149,Contravention,6091,"Refus de priorité par conducteur de véhicule abordant un carrefour à sens giratoire (""rond-point"") (Récidive)","180,00 €",00:00:00,4,
-150,Contravention,6111,Refus de priorité à une intersection de routes où l'obligation de céder le passage est signalée,"90,00 €",00:00:00,4,
-151,Contravention,6111,Refus de priorité à une intersection de routes où l'obligation de céder le passage est signalée (Récidive),"180,00 €",00:00:00,4,
-152,Contravention,210,"Inobservation, par conducteur de véhicule, de l'arrêt imposé par un feu rouge","90,00 €",00:00:00,4,
-153,Contravention,210,"Inobservation, par conducteur de véhicule, de l'arrêt imposé par un feu rouge (Récidive)","180,00 €",00:00:00,4,
-154,Contravention,6096,Conduite d'un véhicule sans laisser une distance de sécurité avec le véhicule qui précéde,"90,00 €",00:00:00,3,
-155,Contravention,6096,Conduite d'un véhicule sans laisser une distance de sécurité avec le véhicule qui précéde (Récidive),"180,00 €",00:00:00,3,
-158,Contravention,25386,Excès de vitesse inférieur à 20 km/h - vitesse max autorisée inférieure ou égale à 50 km/h,"90,00 €",00:00:00,1,
-159,Contravention,25387,Excès de vitesse inférieur à 20 km/h - vitesse max autorisée supérieure à 50 km/h,"45,00 €",00:00:00,1,
-160,Contravention,11302,Excès de vitesse d'au moins 20 km/h et inferieur à 30km/h par conducteur de véhicule à moteur,"90,00 €",00:00:00,2,
-161,Contravention,11301,Excès de vitesse d'au moins 30 km/h et inferieur à 40km/h par conducteur de véhicule à moteur,"90,00 €",00:00:00,3,
-162,Contravention,21527,Excès de vitesse d'au moins 40 km/h et inferieur à 50km/h par conducteur de véhicule à moteur,"90,00 €",00:00:00,4,Rétention PC & Immobilisation (peut être récupéré par un proche)
-163,Contravention,21526,Excès de vitesse d'au moins 50km/h par conducteur de véhicule à moteur,"1 500,00 €",00:03:00,6,Rétention PC & Immobilisation (fourrière min. 48h). Confiscation du véhicule au dessus de 75km/h
-164,Contravention,21526,Excès de vitesse d'au moins 50km/h par conducteur de véhicule à moteur (Récidive),"3 000,00 €",00:06:00,6,Rétention PC & Immobilisation (fourrière min. 48h). Confiscation du véhicule au dessus de 75km/h
-182,Contravention,11325,Franchissement d'une ligne continue par le conducteur d'un véhicule,"90,00 €",00:00:00,3,
-183,Contravention,11325,Franchissement d'une ligne continue par le conducteur d'un véhicule (Récidive),"180,00 €",00:00:00,3,
-184,Contravention,11326,Chevauchement d'une ligne continue par le conducteur d'un véhicule,"90,00 €",00:00:00,1,
-185,Contravention,11326,Chevauchement d'une ligne continue par le conducteur d'un véhicule (Récidive),"180,00 €",00:00:00,1,
-186,Contravention,203,"Innobservation, par conducteur, de l'arrêt imposé par le panneau ""stop"" à une intersection de routes","90,00 €",00:00:00,4,
-187,Contravention,203,"Innobservation, par conducteur, de l'arrêt imposé par le panneau ""stop"" à une intersection de routes (Récidive)","180,00 €",00:00:00,4,
-217,Contravention,12522,Maintien en circulation d'une voiture particulière sans contrôle technique initial ou sans visite périodique,"90,00 €",00:00:00,0,Immobilisation
-33,Crime,7165,Vol avec violence commis en bande organisée,"1 500,00 €",00:15:00,0,JUGE
-34,Crime,7165,Vol avec violence commis en bande organisée (Récidive),"1 550,00 €",00:20:00,0,JUGE
-35,Crime,7252,Vol avec violence ayant entraîné la mort,"25 000,00 €",23:00:00,0,JUGE
-36,Crime,7252,Vol avec violence ayant entraîné la mort (Récidive),"25 500,00 €",23:00:00,0,JUGE
-93,Crime,5115,"Arrestation, enlèvement, séquestration ou détention arbitraire avec torture ou acte de barbarie","5 000,00 €",00:15:00,0,JUGE
-94,Crime,5115,"Arrestation, enlèvement, séquestration ou détention arbitraire avec torture ou acte de barbarie (Récidive)","5 500,00 €",00:15:00,0,JUGE
-113,Crime,11533,"Arrestation, enlèvement, séquestration ou détention arbitraire d'otage pour faciliter un crime ou un délit","5 000,00 €",00:15:00,0,JUGE
-114,Crime,11533,"Arrestation, enlèvement, séquestration ou détention arbitraire d'otage pour faciliter un crime ou un délit (Récidive)","5 500,00 €",00:15:00,0,JUGE
-117,Crime,5169,Meutre,"25 000,00 €",00:30:00,0,JUGE
-118,Crime,5169,Meutre (Récidive),"25 500,00 €",00:30:00,0,JUGE
-211,Crime,7892,Production ou fabrication non autorisée de stupéfiants,"10 000,00 €",00:15:00,0,JUGE
-212,Crime,7892,Production ou fabrication non autorisée de stupéfiants (Récidive),"10 500,00 €",00:15:00,0,JUGE
-213,Crime,12561,Production ou fabrication non autorisée de stupéfiants en bande organisée,"10 000,00 €",00:15:00,0,JUGE
-214,Crime,12561,Production ou fabrication non autorisée de stupéfiants en bande organisée (Récidive),"10 500,00 €",00:15:00,0,JUGE
-1,Délit,113,"Introduction dans le domicile d'autrui à l'aide de manoeuvres, menaces, voies de fait ou contrainte","2 000,00 €",00:05:00,0,
-2,Délit,113,"Introduction dans le domicile d'autrui à l'aide de manoeuvres, menaces, voies de fait ou contrainte (Récidive)","2 500,00 €",00:05:00,0,
-3,Délit,7886,Outrage à une personne dépositaire de l'autorité publique,"1 000,00 €",00:03:00,0,
-4,Délit,7886,Outrage à une personne dépositaire de l'autorité publique (Récidive),"1 500,00 €",00:03:00,0,
-5,Délit,7886,Outrage à une personne dépositaire de l'autorité publique en réunion,"1 000,00 €",00:03:00,0,
-6,Délit,7886,Outrage à une personne dépositaire de l'autorité publique en réunion (Récidive),"1 500,00 €",00:03:00,0,
-7,Délit,0,Refus de se soumettre,"1 500,00 €",00:05:00,0,
-8,Délit,0,Refus de se soumettre (Récidive),"1 550,00 €",00:05:00,0,
-9,Délit,0,Fausse plainte,"700,00 €",00:05:00,0,
-10,Délit,0,Fausse plainte (Récidive),"750,00 €",00:05:00,0,
-11,Délit,1924,Canular Téléphonique,"500,00 €",00:05:00,0,
-12,Délit,1924,Canular Téléphonique(Récidive),"550,00 €",00:05:00,0,
-13,Délit,10187,Menace contre les personne,"500,00 €",00:03:00,0,
-14,Délit,10187,Menace contre les personne(Récidive),"550,00 €",00:03:00,0,
-15,Délit,12364,"Menace, Violence ou acte d'intimidation envers une personne dépositaire de l'autorité publique","1 500,00 €",00:05:00,0,
-16,Délit,12364,"Menace, Violence ou acte d'intimidation envers une personne dépositaire de l'autorité publique(Récidive)","1 550,00 €",00:05:00,0,
-17,Délit,12312,Mise en danger d'autrui (risque immédiat de mort ou d'infirmité) par violation manifestement délibérée d'une obligation réglementaire de sécurité ou de prudence,"3 000,00 €",00:05:00,0,
-18,Délit,12312,Mise en danger d'autrui (risque immédiat de mort ou d'infirmité) par violation manifestement délibérée d'une obligation réglementaire de sécurité ou de prudence (Récidive),"3 500,00 €",00:05:00,0,
-21,Délit,24085,Mise en danger d'autrui (risque immédiat de mort ou d'infirmité) par violation manifestement délibérée d'une obligation réglementaire de sécurité ou de prudence lors de la conduite d'un véhicule,"3 000,00 €",00:05:00,0,
-22,Délit,24085,Mise en danger d'autrui (risque immédiat de mort ou d'infirmité) par violation manifestement délibérée d'une obligation réglementaire de sécurité ou de prudence lors de la conduite d'un véhicule (Récidive),"3 500,00 €",00:05:00,0,
-23,Délit,10595,Divulgation d'information fausse,"700,00 €",00:05:00,0,
-24,Délit,10595,Divulgation d'information fausse (Récidive),"750,00 €",00:05:00,0,
-25,Délit,28139,Usurpation de l'identité d'un tiers,"500,00 €",00:05:00,0,
-26,Délit,28139,Usurpation de l'identité d'un tiers (Récidive),"550,00 €",00:05:00,0,
-27,Délit,7151,Vol,"1 000,00 €",00:10:00,0,
-28,Délit,7151,Vol (Récidive),"1 550,00 €",00:10:00,0,
-29,Délit,7862,Vol avec violence ayant entraîné une ITT inferieur à 8 Jours,"2 500,00 €",00:10:00,0,
-30,Délit,7862,Vol avec violence ayant entraîné une ITT inferieur à 8 Jours (Récidive),"2 550,00 €",00:10:00,0,
-31,Délit,7863,Vol avec violence ayant entraîné une ITT supérieur à 8 Jours,"5 000,00 €",00:15:00,0,
-32,Délit,7863,Vol avec violence ayant entraîné une ITT supérieur à 8 Jours (Récidive),"5 500,00 €",00:15:00,0,
-37,Délit,0,Non présentation à une convocation judiciaire,"500,00 €",00:00:00,0,
-38,Délit,0,Non présentation à une convocation judiciaire (Récidive),"550,00 €",00:00:00,0,
-43,Délit,0,Trouble à l'ordre publique,"1 000,00 €",00:05:00,0,
-44,Délit,0,Trouble à l'ordre publique (Récidive),"1 500,00 €",00:05:00,0,
-45,Délit,30571,Harcèlement moral d'une personne sans ITT,"1 000,00 €",00:05:00,0,
-46,Délit,30571,Harcèlement moral d'une personne sans ITT (Récidive),"1 500,00 €",00:05:00,0,
-47,Délit,30570,Harcèlement moral d'une personne suivi d'une ITT inferieur à 8 jours,"2 000,00 €",00:10:00,0,CTR CHA
-48,Délit,30570,Harcèlement moral d'une personne suivi d'une ITT inferieur à 8 jours (Récidive),"2 500,00 €",00:10:00,0,CTR CHA
-49,Délit,30572,Harcèlement moral d'une personne suivi d'une ITT superieur à 8 jours,"4 000,00 €",00:10:00,0,CTR CHA
-50,Délit,30572,Harcèlement moral d'une personne suivi d'une ITT superieur à 8 jours (Récidive),"4 500,00 €",00:10:00,0,CTR CHA
-51,Délit,341,Travaux non autorisés,"1 000,00 €",00:00:00,0,Demander le permis de construire 
-52,Délit,341,Travaux non autorisés (Récidive),"1 500,00 €",00:00:00,0,
-53,Délit,1788,Escroquerie,"1 000,00 €",00:05:00,0,
-54,Délit,1788,Escroquerie (Récidive),"1 500,00 €",00:05:00,0,
-55,Délit,90,Port sans motif légitime d'arme blanche ou incapacitante de catégorie D,"500,00 €",00:02:00,0,
-56,Délit,90,Port sans motif légitime d'arme blanche ou incapacitante de catégorie D (Récidive),"550,00 €",00:02:00,0,
-57,Délit,90,Transport sans motif légitime d'arme blanche ou incapacitante de catégorie d,"500,00 €",00:02:00,0,
-58,Délit,90,Transport sans motif légitime d'arme blanche ou incapacitante de catégorie D (Récidive),"550,00 €",00:02:00,0,
-59,Délit,496,Usage de faux,"700,00 €",00:10:00,0,
-60,Délit,496,Usage de faux (Récidive),"750,00 €",00:10:00,0,
-61,Délit,29843,Détention non autorisée de munition catégorie B,"2 500,00 €",00:05:00,0,
-62,Délit,29843,Détention non autorisée de munition catégorie B (Récidive),"2 550,00 €",00:05:00,0,
-63,Délit,29841,Détention non autorisée d'arme de catégorie A,"30 000,00 €",00:15:00,0,INTERROGATION 
-64,Délit,29841,Détention non autorisée d'arme de catégorie A (Récidive),"30 500,00 €",00:15:00,0,INTERROGATION 
-65,Délit,29843,Détention non autorisée d'arme de catégorie B,"5 000,00 €",00:05:00,0,
-66,Délit,29843,Détention non autorisée d'arme de catégorie B (Récidive),"5 500,00 €",00:05:00,0,
-67,Délit,29845,Détention non autorisée d'arme de catégorie C,"3 000,00 €",00:05:00,0,
-68,Délit,29845,Détention non autorisée d'arme de catégorie C (Récidive),"3 500,00 €",00:05:00,0,
-69,Délit,1751,Provocation au suicide,"1 000,00 €",00:10:00,0,
-70,Délit,1751,Provocation au suicide (Récidive),"1 500,00 €",00:10:00,0,
-71,Délit,7887,Rébellion,"2 000,00 €",00:15:00,0,
-72,Délit,7887,Rébellion (Récidive),"2 500,00 €",00:15:00,0,
-73,Délit,0,Entrave à la justice,"2 000,00 €",00:10:00,0,
-74,Délit,0,Entrave à la justice (Récidive),"2 500,00 €",00:10:00,0,
-75,Délit,10489,Entrave a l'arrivée des secours,"5 000,00 €",00:10:00,0,
-76,Délit,10489,Entrave a l'arrivée des secours (Récidive),"5 500,00 €",00:10:00,0,
-77,Délit,33,Dénonciation calomnieuse,"3 000,00 €",00:05:00,0,
-78,Délit,33,Dénonciation calomnieuse (Récidive),"3 500,00 €",00:05:00,0,
-79,Délit,11713,Tentative de corruption ou corruption sur PDAP,"100,00 €",00:02:00,0,
-80,Délit,11713,Tentative de corruption ou corruption sur PDAP (Récidive),"150,00 €",00:02:00,0,
-81,Délit,1426,Evasion d'un détenu hospitalise,"500,00 €",00:10:00,0, Plus le temps de prison de la sanction pour laquelle il était arrêté
-82,Délit,1426,Evasion d'un détenu hospitalise (Récidive),"550,00 €",00:10:00,0,
-83,Délit,25281,Evasion,"1 000,00 €",00:10:00,0,
-84,Délit,25281,Evasion (Récidive),"1 500,00 €",00:10:00,0,
-87,Délit,114,Non assistance à personne en danger,"100,00 €",00:10:00,0,
-88,Délit,114,Non assistance à personne en danger (Récidive),"150,00 €",00:10:00,0,
-89,Délit,7951,Evasion par violence,"3 000,00 €",00:15:00,0,
-90,Délit,7951,Evasion par violence (Récidive),"3 500,00 €",00:15:00,0,
-95,Délit,12316,Blessure involontaire n'ayant pas entraîné ITT,"500,00 €",00:05:00,0,
-96,Délit,12316,Blessure involontaire n'ayant pas entraîné ITT (Récidive),"550,00 €",00:05:00,0,
-99,Délit,29024,Organisation d'une manifestation sur la voie publique sans déclaration,"800,00 €",00:00:00,0,
-100,Délit,29024,Organisation d'une manifestation sur la voie publique sans déclaration (Récidive),"850,00 €",00:00:00,0,
-101,Délit,29025,Organisation d'une manifestation interdite sur la voie publique,"1 000,00 €",00:05:00,0,
-102,Délit,29025,Organisation d'une manifestation interdite sur la voie publique (Récidive),"1 500,00 €",00:05:00,0,
-103,Délit,26248,Embuscade dans le but de commettre des violences avec usage ou menace d'une arme,"2 000,00 €",00:10:00,0,
-104,Délit,26248,Embuscade dans le but de commettre des violences avec usage ou menace d'une arme (Récidive),"2 500,00 €",00:10:00,0,
-105,Délit,26249,Embuscade en réunion dans le but de commettre des violences avec usage ou menace d'une arme,"2 000,00 €",00:10:00,0,
-106,Délit,26249,Embuscade en réunion dans le but de commettre des violences avec usage ou menace d'une arme (Récidive),"2 500,00 €",00:10:00,0,
-107,Délit,29840,traffic d'armes,"30 000,00 €",00:15:00,0,INTERROGATION JUGE
-108,Délit,29840,traffic d'armes (Récidive),"30 500,00 €",00:15:00,0,INTERROGATION JUGE
-109,Délit,7183,Violence volontaires sans ITT,"2 500,00 €",00:05:00,0,
-110,Délit,7183,Violence volontaires sans ITT (Récidive),"2 550,00 €",00:05:00,0,
-111,Délit,7183,Violence volontaires avec ITT,"5 000,00 €",00:10:00,0,
-112,Délit,7183,Violence volontaires avec ITT (Récidive),"5 500,00 €",00:10:00,0,
-115,Délit,1268,Tentative ou homicide involontaire,"2 000,00 €",00:05:00,0,
-116,Délit,1268,Tentative ou homicide involontaire (Récidive),"1 500,00 €",00:05:00,0,
-119,Délit,10189,Menace de mort,"1 200,00 €",00:05:00,0,
-120,Délit,10189,Menace de mort (Récidive),"1 250,00 €",00:05:00,0,
-121,Délit,11699,Diffamation,"800,00 €",00:03:00,0,
-122,Délit,11699,Diffamation (Récidive),"850,00 €",00:03:00,0,
-170,Délit,7536,Conduite sans permis,"1 500,00 €",00:05:00,0,Immobilisation (fourrière) 
-171,Délit,7536,Conduite sans permis (Récidive),"1 550,00 €",00:05:00,0,Immobilisation (fourrière) 
-172,Délit,2271,Entrave à la circulation,"500,00 €",00:00:00,0,
-173,Délit,2271,Entrave à la circulation (Récidive),"550,00 €",00:00:00,0,Immobilisation (fourrière) 
-174,Délit,42,Délit de fuite après un accident,"1 000,00 €",00:04:00,0,
-175,Délit,42,Délit de fuite après un accident (Récidive),"1 500,00 €",00:04:00,0,Rétention PC & Immobilisation (fourrière)
-176,Délit,50,"Refus , par le conducteur d'un véhicule, d'obtempérer à une sommation de s'arrêter","1 000,00 €",00:04:00,6,Rétention PC & Immobilisation (fourrière)
-177,Délit,50,"Refus , par le conducteur d'un véhicule, d'obtempérer à une sommation de s'arrêter (Récidive)","1 500,00 €",00:04:00,6,Rétention PC & Immobilisation (fourrière)
-188,Délit,32805, Participation à un rodéo urbain,"500,00 €",00:05:00,0,Confiscation du véhicule 
-189,Délit,32805, Participation à un rodéo urbain (Récidive),"550,00 €",00:05:00,0,Confiscation du véhicule
-190,Délit,32806,Participation à un rodéo urbain en réunion,"500,00 €",00:05:00,0,Confiscation du véhicule
-191,Délit,32806,Participation à un rodéo urbain en réunion (Récidive),"550,00 €",00:05:00,0,Confiscation du véhicule
-192,Délit,32818,Organisateur à un rodéo urbain,"1 000,00 €",00:05:00,0,Confiscation du véhicule (si participation)
-193,Délit,32818,Organisateur à un rodéo urbain (Récidive),"1 500,00 €",00:05:00,0,Confiscation du véhicule (si participation)
-194,Délit,0,Détention de graine de cannabis,"5 000,00 €",00:05:00,0,INTERROGATION
-195,Délit,0,Détention de graine de cannabis (Récidive),"5 500,00 €",00:05:00,0,INTERROGATION
-196,Délit,7991,Détention de stupétiants ,"1 000,00 €",00:00:00,0,RECUPERATION DU STUPÉFIANT 
-196,Délit,180,Détention illicite de stupefiants (Consommation personelle),"800,00 €",00:00:00,0,RECUPERATION DU STUPÉFIANT 
-,Délit,180,Détention illicite de stupefiants (Récidive consommation personelle),"1 000,00 €",00:00:00,0,RECUPERATION DU STUPÉFIANT 
-197,Délit,7991,Detention non autorisee de stupefiants,"1 600,00 €",00:00:00,0,RECUPERATION DU STUPÉFIANT + INTERROGATION
-198,Délit,180,Personne sous l'emprise de stupéfiants,"100,00 €",00:00:00,0,
-199,Délit,180,Personne sous l'emprise de stupéfiants (Récidive),"150,00 €",00:00:00,0,
-202,Délit,7993,Achat de stupétiants,"200,00 €",00:05:00,0,RECUPERATION DU STUPÉFIANT 
-203,Délit,7993,Achat de stupétiants (Récidive),"250,00 €",00:05:00,0,RECUPERATION DU STUPÉFIANT 
-204,Délit,13322,Personne sous l'emprise d'alcool au volant 0.50g/l,"90,00 €",00:05:00,6,
-205,Délit,13322,Personne sous l'emprise d'alcool au volant 0.50g/l (Récidive),"95,00 €",00:05:00,6,
-206,Délit,1247,Personne sous l'emprise d'alcool au volant 0.80g/l,"90,00 €",00:05:00,0,Rétention PC & Immobilisation
-207,Délit,1247,Personne sous l'emprise d'alcool au volant 0.80g/l (Récidive),"95,00 €",00:05:00,0,Rétention PC & Immobilisation (fourrière)
-209,Délit,2938,Trafic de stupéfiant,"30 000,00 €",00:25:00,0,Leader / revendeur / producteur JUGE
-210,Délit,2938,Trafic de stupéfiant (Récidive),"30 500,00 €",00:25:00,0,Leader / revendeur / producteur JUGE
+Id;Nature;NATINF;Qualification;Amende;Prison;Points;Complément
+97;Contravention;33227;Participation à une manifestation interdite sur la voie publique;"135;00 €";00:00:00;0;
+98;Contravention;33227;Participation à une manifestation interdite sur la voie publique (Récidive);"170;00 €";00:05:00;0;
+125;Contravention;213;Conduite d'un véhicule à une vitesse excessive eu égard aux circonstances;"90;00 €";00:00:00;0;
+126;Contravention;213;Conduite d'un véhicule à une vitesse excessive eu égard aux circonstances (Récidive);"180;00 €";00:00:00;0;
+127;Contravention;7581;Arrêt ou stationnement gênant de véhicule entre le bord de chaussée et une ligne continue;"35;00 €";00:00:00;0;Fourrière
+128;Contravention;7581;Arrêt ou stationnement gênant de véhicule entre le bord de chaussée et une ligne continue (Récidive);"70;00 €";00:00:00;0;Fourrière
+129;Contravention;201;Arrêt ou stationnement dangereux de véhicule;"135;00 €";00:00:00;3;Fourrière
+130;Contravention;201;Arrêt ou stationnement dangereux de véhicule (Récidive);"270;00 €";00:00:00;3;Fourrière
+131;Contravention;22889;Usage irrégulier des feux d'éclairage par le conducteur d'un véhicule à moteur circulant dans des circonstances atmosphériques réduisant la visibilité;"90;00 €";00:00:00;1;
+132;Contravention;22889;Usage irrégulier des feux d'éclairage par le conducteur d'un véhicule à moteur circulant dans des circonstances atmosphériques réduisant la visibilité (Récidive);"180;00 €";00:00:00;3;
+135;Contravention;217;Oubli ou mauvais usage du clignotant;"22;00 €";00:00:00;3;
+136;Contravention;217;Oubli ou mauvais usage du clignotant (Récidive);"44;00 €";00:00:00;3;
+137;Contravention;22882;"Usage abusif; de l'avertisseur sonore d'un véhicule";"22;00 €";00:00:00;0;
+138;Contravention;22882;"Usage abusif; de l'avertisseur sonore d'un véhicule (Récidive)";"44;00 €";00:00:00;0;
+139;Contravention;13107;Usage irrégulier de feux spéciaux réservés aux véhicules d'intérêt général;"90;00 €";00:00:00;0;Immobilisation
+140;Contravention;13107;Usage irrégulier de feux spéciaux réservés aux véhicules d'intérêt général (Récidive);"180;00 €";00:00:00;0;Immobilisation
+141;Contravention;24088;Circulation d'un véhicule en dehors de la chaussée;"90;00 €";00:00:00;0;
+142;Contravention;24088;Circulation d'un véhicule en dehors de la chaussée (Récidive);"180;00 €";00:00:00;0;
+144;Contravention;256;Circulation de véhicule en sens interdit;"90;00 €";00:00:00;4;Applicable en cas de circulation en marche arrière dans une rue à sens unique
+145;Contravention;256;Circulation de véhicule en sens interdit (Récidive);"180;00 €";00:00:00;4;
+146;Contravention;207;Refus de priorité à droite à une intersection de routes;"90;00 €";00:00:00;4;
+147;Contravention;207;Refus de priorité à droite à une intersection de routes (Récidive);"180;00 €";00:00:00;4;
+148;Contravention;6091;"Refus de priorité par conducteur de véhicule abordant un carrefour à sens giratoire (""rond-point"")";"90;00 €";00:00:00;4;
+149;Contravention;6091;"Refus de priorité par conducteur de véhicule abordant un carrefour à sens giratoire (""rond-point"") (Récidive)";"180;00 €";00:00:00;4;
+150;Contravention;6111;Refus de priorité à une intersection de routes où l'obligation de céder le passage est signalée;"90;00 €";00:00:00;4;
+151;Contravention;6111;Refus de priorité à une intersection de routes où l'obligation de céder le passage est signalée (Récidive);"180;00 €";00:00:00;4;
+152;Contravention;210;"Inobservation; par conducteur de véhicule; de l'arrêt imposé par un feu rouge";"90;00 €";00:00:00;4;
+153;Contravention;210;"Inobservation; par conducteur de véhicule; de l'arrêt imposé par un feu rouge (Récidive)";"180;00 €";00:00:00;4;
+154;Contravention;6096;Conduite d'un véhicule sans laisser une distance de sécurité avec le véhicule qui précéde;"90;00 €";00:00:00;3;
+155;Contravention;6096;Conduite d'un véhicule sans laisser une distance de sécurité avec le véhicule qui précéde (Récidive);"180;00 €";00:00:00;3;
+158;Contravention;25386;Excès de vitesse inférieur à 20 km/h - vitesse max autorisée inférieure ou égale à 50 km/h;"90;00 €";00:00:00;1;
+159;Contravention;25387;Excès de vitesse inférieur à 20 km/h - vitesse max autorisée supérieure à 50 km/h;"45;00 €";00:00:00;1;
+160;Contravention;11302;Excès de vitesse d'au moins 20 km/h et inferieur à 30km/h par conducteur de véhicule à moteur;"90;00 €";00:00:00;2;
+161;Contravention;11301;Excès de vitesse d'au moins 30 km/h et inferieur à 40km/h par conducteur de véhicule à moteur;"90;00 €";00:00:00;3;
+162;Contravention;21527;Excès de vitesse d'au moins 40 km/h et inferieur à 50km/h par conducteur de véhicule à moteur;"90;00 €";00:00:00;4;Rétention PC & Immobilisation (peut être récupéré par un proche)
+163;Contravention;21526;Excès de vitesse d'au moins 50km/h par conducteur de véhicule à moteur;"1 500;00 €";00:03:00;6;Rétention PC & Immobilisation (fourrière min. 48h). Confiscation du véhicule au dessus de 75km/h
+164;Contravention;21526;Excès de vitesse d'au moins 50km/h par conducteur de véhicule à moteur (Récidive);"3 000;00 €";00:06:00;6;Rétention PC & Immobilisation (fourrière min. 48h). Confiscation du véhicule au dessus de 75km/h
+182;Contravention;11325;Franchissement d'une ligne continue par le conducteur d'un véhicule;"90;00 €";00:00:00;3;
+183;Contravention;11325;Franchissement d'une ligne continue par le conducteur d'un véhicule (Récidive);"180;00 €";00:00:00;3;
+184;Contravention;11326;Chevauchement d'une ligne continue par le conducteur d'un véhicule;"90;00 €";00:00:00;1;
+185;Contravention;11326;Chevauchement d'une ligne continue par le conducteur d'un véhicule (Récidive);"180;00 €";00:00:00;1;
+186;Contravention;203;"Innobservation; par conducteur; de l'arrêt imposé par le panneau ""stop"" à une intersection de routes";"90;00 €";00:00:00;4;
+187;Contravention;203;"Innobservation; par conducteur; de l'arrêt imposé par le panneau ""stop"" à une intersection de routes (Récidive)";"180;00 €";00:00:00;4;
+217;Contravention;12522;Maintien en circulation d'une voiture particulière sans contrôle technique initial ou sans visite périodique;"90;00 €";00:00:00;0;Immobilisation
+33;Crime;7165;Vol avec violence commis en bande organisée;"1 500;00 €";00:15:00;0;JUGE
+34;Crime;7165;Vol avec violence commis en bande organisée (Récidive);"1 550;00 €";00:20:00;0;JUGE
+35;Crime;7252;Vol avec violence ayant entraîné la mort;"25 000;00 €";23:00:00;0;JUGE
+36;Crime;7252;Vol avec violence ayant entraîné la mort (Récidive);"25 500;00 €";23:00:00;0;JUGE
+93;Crime;5115;"Arrestation; enlèvement; séquestration ou détention arbitraire avec torture ou acte de barbarie";"5 000;00 €";00:15:00;0;JUGE
+94;Crime;5115;"Arrestation; enlèvement; séquestration ou détention arbitraire avec torture ou acte de barbarie (Récidive)";"5 500;00 €";00:15:00;0;JUGE
+113;Crime;11533;"Arrestation; enlèvement; séquestration ou détention arbitraire d'otage pour faciliter un crime ou un délit";"5 000;00 €";00:15:00;0;JUGE
+114;Crime;11533;"Arrestation; enlèvement; séquestration ou détention arbitraire d'otage pour faciliter un crime ou un délit (Récidive)";"5 500;00 €";00:15:00;0;JUGE
+117;Crime;5169;Meutre;"25 000;00 €";00:30:00;0;JUGE
+118;Crime;5169;Meutre (Récidive);"25 500;00 €";00:30:00;0;JUGE
+211;Crime;7892;Production ou fabrication non autorisée de stupéfiants;"10 000;00 €";00:15:00;0;JUGE
+212;Crime;7892;Production ou fabrication non autorisée de stupéfiants (Récidive);"10 500;00 €";00:15:00;0;JUGE
+213;Crime;12561;Production ou fabrication non autorisée de stupéfiants en bande organisée;"10 000;00 €";00:15:00;0;JUGE
+214;Crime;12561;Production ou fabrication non autorisée de stupéfiants en bande organisée (Récidive);"10 500;00 €";00:15:00;0;JUGE
+1;Délit;113;"Introduction dans le domicile d'autrui à l'aide de manoeuvres; menaces; voies de fait ou contrainte";"2 000;00 €";00:05:00;0;
+2;Délit;113;"Introduction dans le domicile d'autrui à l'aide de manoeuvres; menaces; voies de fait ou contrainte (Récidive)";"2 500;00 €";00:05:00;0;
+3;Délit;7886;Outrage à une personne dépositaire de l'autorité publique;"1 000;00 €";00:03:00;0;
+4;Délit;7886;Outrage à une personne dépositaire de l'autorité publique (Récidive);"1 500;00 €";00:03:00;0;
+5;Délit;7886;Outrage à une personne dépositaire de l'autorité publique en réunion;"1 000;00 €";00:03:00;0;
+6;Délit;7886;Outrage à une personne dépositaire de l'autorité publique en réunion (Récidive);"1 500;00 €";00:03:00;0;
+7;Délit;0;Refus de se soumettre;"1 500;00 €";00:05:00;0;
+8;Délit;0;Refus de se soumettre (Récidive);"1 550;00 €";00:05:00;0;
+9;Délit;0;Fausse plainte;"700;00 €";00:05:00;0;
+10;Délit;0;Fausse plainte (Récidive);"750;00 €";00:05:00;0;
+11;Délit;1924;Canular Téléphonique;"500;00 €";00:05:00;0;
+12;Délit;1924;Canular Téléphonique(Récidive);"550;00 €";00:05:00;0;
+13;Délit;10187;Menace contre les personne;"500;00 €";00:03:00;0;
+14;Délit;10187;Menace contre les personne(Récidive);"550;00 €";00:03:00;0;
+15;Délit;12364;"Menace; Violence ou acte d'intimidation envers une personne dépositaire de l'autorité publique";"1 500;00 €";00:05:00;0;
+16;Délit;12364;"Menace; Violence ou acte d'intimidation envers une personne dépositaire de l'autorité publique(Récidive)";"1 550;00 €";00:05:00;0;
+17;Délit;12312;Mise en danger d'autrui (risque immédiat de mort ou d'infirmité) par violation manifestement délibérée d'une obligation réglementaire de sécurité ou de prudence;"3 000;00 €";00:05:00;0;
+18;Délit;12312;Mise en danger d'autrui (risque immédiat de mort ou d'infirmité) par violation manifestement délibérée d'une obligation réglementaire de sécurité ou de prudence (Récidive);"3 500;00 €";00:05:00;0;
+21;Délit;24085;Mise en danger d'autrui (risque immédiat de mort ou d'infirmité) par violation manifestement délibérée d'une obligation réglementaire de sécurité ou de prudence lors de la conduite d'un véhicule;"3 000;00 €";00:05:00;0;
+22;Délit;24085;Mise en danger d'autrui (risque immédiat de mort ou d'infirmité) par violation manifestement délibérée d'une obligation réglementaire de sécurité ou de prudence lors de la conduite d'un véhicule (Récidive);"3 500;00 €";00:05:00;0;
+23;Délit;10595;Divulgation d'information fausse;"700;00 €";00:05:00;0;
+24;Délit;10595;Divulgation d'information fausse (Récidive);"750;00 €";00:05:00;0;
+25;Délit;28139;Usurpation de l'identité d'un tiers;"500;00 €";00:05:00;0;
+26;Délit;28139;Usurpation de l'identité d'un tiers (Récidive);"550;00 €";00:05:00;0;
+27;Délit;7151;Vol;"1 000;00 €";00:10:00;0;
+28;Délit;7151;Vol (Récidive);"1 550;00 €";00:10:00;0;
+29;Délit;7862;Vol avec violence ayant entraîné une ITT inferieur à 8 Jours;"2 500;00 €";00:10:00;0;
+30;Délit;7862;Vol avec violence ayant entraîné une ITT inferieur à 8 Jours (Récidive);"2 550;00 €";00:10:00;0;
+31;Délit;7863;Vol avec violence ayant entraîné une ITT supérieur à 8 Jours;"5 000;00 €";00:15:00;0;
+32;Délit;7863;Vol avec violence ayant entraîné une ITT supérieur à 8 Jours (Récidive);"5 500;00 €";00:15:00;0;
+37;Délit;0;Non présentation à une convocation judiciaire;"500;00 €";00:00:00;0;
+38;Délit;0;Non présentation à une convocation judiciaire (Récidive);"550;00 €";00:00:00;0;
+43;Délit;0;Trouble à l'ordre publique;"1 000;00 €";00:05:00;0;
+44;Délit;0;Trouble à l'ordre publique (Récidive);"1 500;00 €";00:05:00;0;
+45;Délit;30571;Harcèlement moral d'une personne sans ITT;"1 000;00 €";00:05:00;0;
+46;Délit;30571;Harcèlement moral d'une personne sans ITT (Récidive);"1 500;00 €";00:05:00;0;
+47;Délit;30570;Harcèlement moral d'une personne suivi d'une ITT inferieur à 8 jours;"2 000;00 €";00:10:00;0;CTR CHA
+48;Délit;30570;Harcèlement moral d'une personne suivi d'une ITT inferieur à 8 jours (Récidive);"2 500;00 €";00:10:00;0;CTR CHA
+49;Délit;30572;Harcèlement moral d'une personne suivi d'une ITT superieur à 8 jours;"4 000;00 €";00:10:00;0;CTR CHA
+50;Délit;30572;Harcèlement moral d'une personne suivi d'une ITT superieur à 8 jours (Récidive);"4 500;00 €";00:10:00;0;CTR CHA
+51;Délit;341;Travaux non autorisés;"1 000;00 €";00:00:00;0;Demander le permis de construire 
+52;Délit;341;Travaux non autorisés (Récidive);"1 500;00 €";00:00:00;0;
+53;Délit;1788;Escroquerie;"1 000;00 €";00:05:00;0;
+54;Délit;1788;Escroquerie (Récidive);"1 500;00 €";00:05:00;0;
+55;Délit;90;Port sans motif légitime d'arme blanche ou incapacitante de catégorie D;"500;00 €";00:02:00;0;
+56;Délit;90;Port sans motif légitime d'arme blanche ou incapacitante de catégorie D (Récidive);"550;00 €";00:02:00;0;
+57;Délit;90;Transport sans motif légitime d'arme blanche ou incapacitante de catégorie d;"500;00 €";00:02:00;0;
+58;Délit;90;Transport sans motif légitime d'arme blanche ou incapacitante de catégorie D (Récidive);"550;00 €";00:02:00;0;
+59;Délit;496;Usage de faux;"700;00 €";00:10:00;0;
+60;Délit;496;Usage de faux (Récidive);"750;00 €";00:10:00;0;
+61;Délit;29843;Détention non autorisée de munition catégorie B;"2 500;00 €";00:05:00;0;
+62;Délit;29843;Détention non autorisée de munition catégorie B (Récidive);"2 550;00 €";00:05:00;0;
+63;Délit;29841;Détention non autorisée d'arme de catégorie A;"30 000;00 €";00:15:00;0;INTERROGATION 
+64;Délit;29841;Détention non autorisée d'arme de catégorie A (Récidive);"30 500;00 €";00:15:00;0;INTERROGATION 
+65;Délit;29843;Détention non autorisée d'arme de catégorie B;"5 000;00 €";00:05:00;0;
+66;Délit;29843;Détention non autorisée d'arme de catégorie B (Récidive);"5 500;00 €";00:05:00;0;
+67;Délit;29845;Détention non autorisée d'arme de catégorie C;"3 000;00 €";00:05:00;0;
+68;Délit;29845;Détention non autorisée d'arme de catégorie C (Récidive);"3 500;00 €";00:05:00;0;
+69;Délit;1751;Provocation au suicide;"1 000;00 €";00:10:00;0;
+70;Délit;1751;Provocation au suicide (Récidive);"1 500;00 €";00:10:00;0;
+71;Délit;7887;Rébellion;"2 000;00 €";00:15:00;0;
+72;Délit;7887;Rébellion (Récidive);"2 500;00 €";00:15:00;0;
+73;Délit;0;Entrave à la justice;"2 000;00 €";00:10:00;0;
+74;Délit;0;Entrave à la justice (Récidive);"2 500;00 €";00:10:00;0;
+75;Délit;10489;Entrave a l'arrivée des secours;"5 000;00 €";00:10:00;0;
+76;Délit;10489;Entrave a l'arrivée des secours (Récidive);"5 500;00 €";00:10:00;0;
+77;Délit;33;Dénonciation calomnieuse;"3 000;00 €";00:05:00;0;
+78;Délit;33;Dénonciation calomnieuse (Récidive);"3 500;00 €";00:05:00;0;
+79;Délit;11713;Tentative de corruption ou corruption sur PDAP;"100;00 €";00:02:00;0;
+80;Délit;11713;Tentative de corruption ou corruption sur PDAP (Récidive);"150;00 €";00:02:00;0;
+81;Délit;1426;Evasion d'un détenu hospitalise;"500;00 €";00:10:00;0; Plus le temps de prison de la sanction pour laquelle il était arrêté
+82;Délit;1426;Evasion d'un détenu hospitalise (Récidive);"550;00 €";00:10:00;0;
+83;Délit;25281;Evasion;"1 000;00 €";00:10:00;0;
+84;Délit;25281;Evasion (Récidive);"1 500;00 €";00:10:00;0;
+87;Délit;114;Non assistance à personne en danger;"100;00 €";00:10:00;0;
+88;Délit;114;Non assistance à personne en danger (Récidive);"150;00 €";00:10:00;0;
+89;Délit;7951;Evasion par violence;"3 000;00 €";00:15:00;0;
+90;Délit;7951;Evasion par violence (Récidive);"3 500;00 €";00:15:00;0;
+95;Délit;12316;Blessure involontaire n'ayant pas entraîné ITT;"500;00 €";00:05:00;0;
+96;Délit;12316;Blessure involontaire n'ayant pas entraîné ITT (Récidive);"550;00 €";00:05:00;0;
+99;Délit;29024;Organisation d'une manifestation sur la voie publique sans déclaration;"800;00 €";00:00:00;0;
+100;Délit;29024;Organisation d'une manifestation sur la voie publique sans déclaration (Récidive);"850;00 €";00:00:00;0;
+101;Délit;29025;Organisation d'une manifestation interdite sur la voie publique;"1 000;00 €";00:05:00;0;
+102;Délit;29025;Organisation d'une manifestation interdite sur la voie publique (Récidive);"1 500;00 €";00:05:00;0;
+103;Délit;26248;Embuscade dans le but de commettre des violences avec usage ou menace d'une arme;"2 000;00 €";00:10:00;0;
+104;Délit;26248;Embuscade dans le but de commettre des violences avec usage ou menace d'une arme (Récidive);"2 500;00 €";00:10:00;0;
+105;Délit;26249;Embuscade en réunion dans le but de commettre des violences avec usage ou menace d'une arme;"2 000;00 €";00:10:00;0;
+106;Délit;26249;Embuscade en réunion dans le but de commettre des violences avec usage ou menace d'une arme (Récidive);"2 500;00 €";00:10:00;0;
+107;Délit;29840;traffic d'armes;"30 000;00 €";00:15:00;0;INTERROGATION JUGE
+108;Délit;29840;traffic d'armes (Récidive);"30 500;00 €";00:15:00;0;INTERROGATION JUGE
+109;Délit;7183;Violence volontaires sans ITT;"2 500;00 €";00:05:00;0;
+110;Délit;7183;Violence volontaires sans ITT (Récidive);"2 550;00 €";00:05:00;0;
+111;Délit;7183;Violence volontaires avec ITT;"5 000;00 €";00:10:00;0;
+112;Délit;7183;Violence volontaires avec ITT (Récidive);"5 500;00 €";00:10:00;0;
+115;Délit;1268;Tentative ou homicide involontaire;"2 000;00 €";00:05:00;0;
+116;Délit;1268;Tentative ou homicide involontaire (Récidive);"1 500;00 €";00:05:00;0;
+119;Délit;10189;Menace de mort;"1 200;00 €";00:05:00;0;
+120;Délit;10189;Menace de mort (Récidive);"1 250;00 €";00:05:00;0;
+121;Délit;11699;Diffamation;"800;00 €";00:03:00;0;
+122;Délit;11699;Diffamation (Récidive);"850;00 €";00:03:00;0;
+170;Délit;7536;Conduite sans permis;"1 500;00 €";00:05:00;0;Immobilisation (fourrière) 
+171;Délit;7536;Conduite sans permis (Récidive);"1 550;00 €";00:05:00;0;Immobilisation (fourrière) 
+172;Délit;2271;Entrave à la circulation;"500;00 €";00:00:00;0;
+173;Délit;2271;Entrave à la circulation (Récidive);"550;00 €";00:00:00;0;Immobilisation (fourrière) 
+174;Délit;42;Délit de fuite après un accident;"1 000;00 €";00:04:00;0;
+175;Délit;42;Délit de fuite après un accident (Récidive);"1 500;00 €";00:04:00;0;Rétention PC & Immobilisation (fourrière)
+176;Délit;50;"Refus ; par le conducteur d'un véhicule; d'obtempérer à une sommation de s'arrêter";"1 000;00 €";00:04:00;6;Rétention PC & Immobilisation (fourrière)
+177;Délit;50;"Refus ; par le conducteur d'un véhicule; d'obtempérer à une sommation de s'arrêter (Récidive)";"1 500;00 €";00:04:00;6;Rétention PC & Immobilisation (fourrière)
+188;Délit;32805; Participation à un rodéo urbain;"500;00 €";00:05:00;0;Confiscation du véhicule 
+189;Délit;32805; Participation à un rodéo urbain (Récidive);"550;00 €";00:05:00;0;Confiscation du véhicule
+190;Délit;32806;Participation à un rodéo urbain en réunion;"500;00 €";00:05:00;0;Confiscation du véhicule
+191;Délit;32806;Participation à un rodéo urbain en réunion (Récidive);"550;00 €";00:05:00;0;Confiscation du véhicule
+192;Délit;32818;Organisateur à un rodéo urbain;"1 000;00 €";00:05:00;0;Confiscation du véhicule (si participation)
+193;Délit;32818;Organisateur à un rodéo urbain (Récidive);"1 500;00 €";00:05:00;0;Confiscation du véhicule (si participation)
+194;Délit;0;Détention de graine de cannabis;"5 000;00 €";00:05:00;0;INTERROGATION
+195;Délit;0;Détention de graine de cannabis (Récidive);"5 500;00 €";00:05:00;0;INTERROGATION
+196;Délit;7991;Détention de stupétiants ;"1 000;00 €";00:00:00;0;RECUPERATION DU STUPÉFIANT 
+196;Délit;180;Détention illicite de stupefiants (Consommation personelle);"800;00 €";00:00:00;0;RECUPERATION DU STUPÉFIANT 
+;Délit;180;Détention illicite de stupefiants (Récidive consommation personelle);"1 000;00 €";00:00:00;0;RECUPERATION DU STUPÉFIANT 
+197;Délit;7991;Detention non autorisee de stupefiants;"1 600;00 €";00:00:00;0;RECUPERATION DU STUPÉFIANT + INTERROGATION
+198;Délit;180;Personne sous l'emprise de stupéfiants;"100;00 €";00:00:00;0;
+199;Délit;180;Personne sous l'emprise de stupéfiants (Récidive);"150;00 €";00:00:00;0;
+202;Délit;7993;Achat de stupétiants;"200;00 €";00:05:00;0;RECUPERATION DU STUPÉFIANT 
+203;Délit;7993;Achat de stupétiants (Récidive);"250;00 €";00:05:00;0;RECUPERATION DU STUPÉFIANT 
+204;Délit;13322;Personne sous l'emprise d'alcool au volant 0.50g/l;"90;00 €";00:05:00;6;
+205;Délit;13322;Personne sous l'emprise d'alcool au volant 0.50g/l (Récidive);"95;00 €";00:05:00;6;
+206;Délit;1247;Personne sous l'emprise d'alcool au volant 0.80g/l;"90;00 €";00:05:00;0;Rétention PC & Immobilisation
+207;Délit;1247;Personne sous l'emprise d'alcool au volant 0.80g/l (Récidive);"95;00 €";00:05:00;0;Rétention PC & Immobilisation (fourrière)
+209;Délit;2938;Trafic de stupéfiant;"30 000;00 €";00:25:00;0;Leader / revendeur / producteur JUGE
+210;Délit;2938;Trafic de stupéfiant (Récidive);"30 500;00 €";00:25:00;0;Leader / revendeur / producteur JUGE
