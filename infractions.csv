@@ -6,7 +6,7 @@ Id;Nature;NATINF;Qualification;Amende;Prison;Points;Complément
 127;Contravention;7581;Arrêt ou stationnement gênant de véhicule entre le bord de chaussée et une ligne continue;"35,00 €";00:00:00;0;Fourrière
 128;Contravention;7581;Arrêt ou stationnement gênant de véhicule entre le bord de chaussée et une ligne continue (Récidive);"70,00 €";00:00:00;0;Fourrière
 129;Contravention;201;Arrêt ou stationnement dangereux de véhicule;"135,00 €";00:00:00;3;Fourrière
-130;Contravention;201;Arrêt ou stationnement dangereux de véhicule (Récidive);"270;00 €";00:00:00;3;Fourrière
+130;Contravention;201;Arrêt ou stationnement dangereux de véhicule (Récidive);"270,00 €";00:00:00;3;Fourrière
 131;Contravention;22889;Usage irrégulier des feux d'éclairage par le conducteur d'un véhicule à moteur circulant dans des circonstances atmosphériques réduisant la visibilité;"90,00 €";00:00:00;1;
 132;Contravention;22889;Usage irrégulier des feux d'éclairage par le conducteur d'un véhicule à moteur circulant dans des circonstances atmosphériques réduisant la visibilité (Récidive);"180,00 €";00:00:00;3;
 135;Contravention;217;Oubli ou mauvais usage du clignotant;"22,00 €";00:00:00;3;
@@ -69,7 +69,7 @@ Id;Nature;NATINF;Qualification;Amende;Prison;Points;Complément
 10;Délit;0;Fausse plainte (Récidive);"750,00 €";00:05:00;0;
 11;Délit;1924;Canular Téléphonique;"500,00 €";00:05:00;0;
 12;Délit;1924;Canular Téléphonique(Récidive);"550,00 €";00:05:00;0;
-13;Délit;10187;Menace contre les personne;"500n00 €";00:03:00;0;
+13;Délit;10187;Menace contre les personne;"500,00 €";00:03:00;0;
 14;Délit;10187;Menace contre les personne(Récidive);"550,0 €";00:03:00;0;
 15;Délit;12364;"Menace; Violence ou acte d'intimidation envers une personne dépositaire de l'autorité publique";"1 500,00 €";00:05:00;0;
 16;Délit;12364;"Menace; Violence ou acte d'intimidation envers une personne dépositaire de l'autorité publique(Récidive)";"1 550,00 €";00:05:00;0;
@@ -170,7 +170,7 @@ Id;Nature;NATINF;Qualification;Amende;Prison;Points;Complément
 190;Délit;32806;Participation à un rodéo urbain en réunion;"500,00 €";00:05:00;0;Confiscation du véhicule
 191;Délit;32806;Participation à un rodéo urbain en réunion (Récidive);"550,00 €";00:05:00;0;Confiscation du véhicule
 192;Délit;32818;Organisateur à un rodéo urbain;"1 000,00 €";00:05:00;0;Confiscation du véhicule (si participation)
-193;Délit;32818;Organisateur à un rodéo urbain (Récidive);"1 500;00 €";00:05:00;0;Confiscation du véhicule (si participation)
+193;Délit;32818;Organisateur à un rodéo urbain (Récidive);"1 500,00 €";00:05:00;0;Confiscation du véhicule (si participation)
 194;Délit;0;Détention de graine de cannabis;"5 000,00 €";00:05:00;0;INTERROGATION
 195;Délit;0;Détention de graine de cannabis (Récidive);"5 500,00 €";00:05:00;0;INTERROGATION
 196;Délit;7991;Détention de stupétiants ;"1 000,00 €";00:00:00;0;RECUPERATION DU STUPÉFIANT 
